@@ -1,0 +1,9 @@
+1 .   Chips        20     2.5
+2 .   French_fries 80     5
+3 .   Bhatura      60     3.5
+4 .   Samosa       15     2
+5 .   Dosa         50     5.5
+6 .   Idli         40     3.5
+7 .   Poori        60     3.5
+8 .   Parata       30     2.5
+9 .   Fried_Rice   60     4.5
